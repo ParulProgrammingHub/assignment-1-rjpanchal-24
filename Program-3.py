@@ -1,3 +1,4 @@
-a=float(raw_input('Enter radius of circle'))
-print 'Circumference = ',2*3.14*a
-print 'Area = ',3.14*(a**2)
+
+cm=float(raw_input('Enter values in centemeters only pls'))
+print 'Value in meter = ',(cm/100.0)
+print 'Value in km = ',(cm/1000)
