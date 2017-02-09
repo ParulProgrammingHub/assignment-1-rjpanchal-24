@@ -1,4 +1,3 @@
-Enter length of rectangle2
-Enter breadth of rectangle3
-Area of rectangle =  6
-Perimeter of rectangle =  10
+a=float(raw_input('Enter radius of circle'))
+print 'Circumference = ',2*3.14*a
+print 'Area = ',3.14*(a**2)
